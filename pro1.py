@@ -11,6 +11,13 @@ for x in range(1, 1000):
   elif x%5 == 0:
     aux += x
 print aux
+
+
+
+
+
+
+#okeanos
 #7LQGGbDJDS
 #TCFtk8xbBg
 #https://github.com/Higorhicaro/cloudLab.git
